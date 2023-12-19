@@ -1,8 +1,6 @@
 ### <h1 align="center">Hi , I'm Sameer</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **React and TypeScript**
-
 - 👨‍💻 All of my projects are available at [https://sameer-campus.netlify.app/](https://sameer-campus.netlify.app/)
 
 - 📝 I regularly write articles on [https://hippocampus.hashnode.dev/](https://hippocampus.hashnode.dev/)
